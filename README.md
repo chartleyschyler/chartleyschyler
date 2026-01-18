@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/chartleyschyler/chartleyschyler/blob/main/A_banner_for_Chartley_Schyler,_a_software_develope.png" alt="Profile Banner" />
+  <img src="https://github.com/chartleyschyler/chartleyschyler/blob/main/Screenshot 2026-01-19 025721.png" alt="Profile Banner" />
 </p>
 
 <p align="center">
