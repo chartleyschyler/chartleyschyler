@@ -1,5 +1,11 @@
 ## Hi there!
 <!-- PROFILE BANNER -->
+
+
+<p align="center">
+  <img src="https://github.com/chartleyschyler/chartleyschyler/blob/main/A_banner_for_Chartley_Schyler,_a_software_develope.png" alt="Profile Banner" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Chartley%20Schyler&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
